@@ -1,0 +1,15 @@
+{
+  "name": "event-crud-app",
+  "version": "1.0.0",
+  "description": "Node.js + MySQL CRUD app for event management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  }
+}
